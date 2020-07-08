@@ -1,0 +1,154 @@
+img{
+    width: 100%;
+}
+.container{
+    margin-bottom: 50px;
+}
+.container1{
+    background-color: #F0FFF0;
+  
+}
+p{
+    color: #585859
+}
+.logo{
+    width: 200px;
+}
+.nav-item{
+    margin-left: 30px;
+    font-weight: bold;
+}
+button{
+    border-radius: 24px!important;
+    padding:10px 20px !important;
+}
+.ready{
+    color:orange;
+}
+.any{
+    color: rgb(17, 146, 73);
+}
+.learn{
+    font-weight: bold;
+    font-size: 55px;
+}
+.seconds{
+    margin-top: 30px;
+}
+
+.first{
+
+    width: 66px;
+    height: 85px;
+}
+.top{
+    margin-top: 50px;
+}
+button{
+    background-color:  #21B573;
+    border: white;
+    color: white;
+}
+button:hover{
+    background-color: teal;
+}
+.navbar{
+    margin-bottom: 90px;
+    background-color: #F0FFF0!important;
+}
+.cards{
+    margin-top: 50px;
+}
+.last-cards{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-footer{
+    color: #585859;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px!important;
+    line-height: 24px;
+    background-color:white!important;
+    border: none!important;
+}
+.man{
+    width: 120px;
+    height: 120px;
+    left: 353px;
+    top: 1787px;
+    margin-left: 220px;
+}
+.mens{
+    margin-left: -200px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.title{
+    margin-bottom: 70px;
+}
+.last-div{
+    background: #282531;color: white;
+    padding: 60px;
+}
+li{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+li a:hover{
+    color:  #21B573;
+    text-decoration: none;
+}
+footer{
+    margin-bottom: -25px;
+}
+.bottom{
+    margin-bottom: 50px;
+}
+.for-padding{
+    padding: 20px;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background: #F8FFFB;
+    border-radius: 10px;
+  
+   margin: auto;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+   margin: auto;
+}
+.box2:hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+    transform: translateY(-12px);
+
+}
+.box-elements{
+    width: 180px;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+.box-images{
+    width: 80px;
+ padding: 10px;
+}
